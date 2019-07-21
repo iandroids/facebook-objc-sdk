@@ -1,4 +1,4 @@
-# Facebook SDK for iOS
+# [Facebook](https://aapks.com/apk/facebook/) SDK for iOS
 
 [![Platforms](https://img.shields.io/cocoapods/p/FBSDKCoreKit.svg)](https://cocoapods.org/pods/FBSDKCoreKit)
 [![Build Status](https://travis-ci.org/facebook/facebook-objc-sdk.svg?branch=master)](https://travis-ci.org/facebook/facebook-objc-sdk)
